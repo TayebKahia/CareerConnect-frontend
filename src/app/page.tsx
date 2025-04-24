@@ -8,7 +8,7 @@ import Starter from "../../components/Starter";
 import Footer from "../../components/Footer";
 export default function Home() {
   return (
-    <div className='flex flex-col items-center scroll-smooth'>
+    <div className='flex flex-col items-center  scroll-smooth'>
       <NavBar />
       <Definition />
       <Stats />
